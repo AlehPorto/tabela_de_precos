@@ -1,4 +1,5 @@
 Nome do Projeto - Tabela de Preços
+
 Sobre o Projeto
 Este projeto é uma página web simples e responsiva que exibe uma tabela de preços para três pacotes de serviço distintos.
 A inspiração para o design e a estrutura dos pacotes foi a experiência de assinatura de serviços de streaming, como a Netflix.
